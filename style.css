@@ -31,7 +31,6 @@ body {
 .person {
   display: flex;
   align-items: flex-start;
-  
 }
 .person__description {
   font-size: 16px;
